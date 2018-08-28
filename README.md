@@ -1,4 +1,4 @@
-<h1>Gralina - The Second Chapter</h1>
+<h1>Noctam - A Short Story</h1>
 <h3>Scernario Designer/Writer &amp; Developer - Nikki Xaysanasy</h3>
 <h3>Engine: Ren'Py</h3>
 <img src="images/wallpaper.png">
