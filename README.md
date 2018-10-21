@@ -6,12 +6,19 @@
 <p>
     <h3>News</h3>
     <ul>
+        <li>
+            <em>October 21, 2018</em>
+            <p> Sorry for the lack of updates but the initial story for Noctam has been done and we're still looking for an artist to do some cool original art work but it'll be put on hold and we won't be able to meet our 2018 deadline (Donations will help) but in the mean time the team will enter Github's Game Off starting next month and for the month of November we will focus purely on that.
+
+            Stay tune for new updates!
+            </p>
+        </li>
             <li>
             <em>September 25, 2018</em>
             <p>
                 It's been about a month but I finished the story and now I'm scripting out the game. I also had someone talented work on the new website which I will upload soon! I'm still projecting to release this game by the Winter. Hopefully for a Winter chill game. But in a horror atmosphere. I did some added scenes today. It's going to be a short game but I wanted to make something similar to Umineko/Higurashi, but of course, I would like to use original artwork (at least internally) but my skills are bad. Stay tuned!</p>
 
-        </li>
+            </li>
         <li>
             <em>August 25, 2018</em>
             <p>
