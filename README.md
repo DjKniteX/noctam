@@ -15,8 +15,7 @@
             <em>September 25, 2018</em>
             <p>
                 It's been about a month but I finished the story and now I'm scripting out the game. I also had someone talented work on the new website which I will upload soon! I'm still projecting to release this game by the Winter. Hopefully for a Winter chill game. But in a horror atmosphere. I did some added scenes today. It's going to be a short game but I wanted to make something similar to Umineko/Higurashi, but of course, I would like to use original artwork (at least internally) but my skills are bad. Stay tuned!</p>
-
-            </li>
+                </li>
         <li>
             <em>August 25, 2018</em>
             <p>
