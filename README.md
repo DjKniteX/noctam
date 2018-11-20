@@ -8,10 +8,8 @@
     <ul>
         <li>
             <em>October 21, 2018</em>
-            <p> Sorry for the lack of updates but the initial story for Noctam has been done and we're still looking for an artist to do some cool original art work but it'll be put on hold and we won't be able to meet our 2018 deadline (Donations will help) but in the mean time the team will enter Github's Game Off starting next month and for the month of November we will focus purely on that.
-
-            Stay tune for new updates!
-            </p>
+            <p> Sorry for the lack of updates but the initial story for Noctam has been done and we're still looking for an artist to do some cool original art work but it'll be put on hold and we won't be able to meet our 2018 deadline (Donations will help) but in the mean time the team will enter Github's Game Off starting next month and for the month of November we will focus purely on that.</p>
+            <p>Stay tuned for updates!</p>
         </li>
             <li>
             <em>September 25, 2018</em>
